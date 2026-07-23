@@ -6,7 +6,7 @@ Founder of [EFG technologies](https://efg-technologies.com) (Tokyo, Japan), buil
 - 🔎 Also building **[Zeed Search](https://search.zeed.run)** — AI-era search.
 - 🐧 Daily driver: Hyprland / Wayland on Arch Linux, Zsh + Starship, Neovim, Ghostty.
 
-> **日本語**: [EFG technologies](https://efg-technologies.com)（東京）代表。Linux ファーストの AI ブラウザ **[Zeed](https://zeed.run)** を開発しています。
+> **日本語**: [株式会社EFG technologies](https://efg-technologies.com)（東京）代表。Linux ファーストの AI ブラウザ **[Zeed](https://zeed.run)** を開発しています。
 
 ### Links
 
